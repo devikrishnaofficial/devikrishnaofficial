@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm K Devi Krishna</h1>
-<h3 align="center">A passionate data analyst student</h3>
+<h3 align="center">A passionate data analysis student</h3>
 
 - 📫 How to reach me **devikrishna.diksh@gmail.com**
 
